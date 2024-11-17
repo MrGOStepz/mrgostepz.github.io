@@ -10,8 +10,8 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/w'
-  ARTIFACT: 'webHelpW2-all.zip'
+  INSTANCE: 'Writerside/m'
+  ARTIFACT: 'webHelpM2-all.zip'
   DOCKER_VERSION: '243.21565'
 
 jobs:

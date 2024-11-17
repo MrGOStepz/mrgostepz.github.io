@@ -4,7 +4,12 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
-    <build-profile instance="w">
+    <build-profile instance="m">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="java">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
