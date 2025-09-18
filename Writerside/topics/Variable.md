@@ -1,3 +1,2 @@
 # Variable
 
-Start typing here...

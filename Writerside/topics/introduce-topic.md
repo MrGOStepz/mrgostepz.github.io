@@ -1,10 +1,12 @@
 # Introduce
 
 # Who am I?
-My name is Warawat Suksakulwat. I am a software developer for 6 years in back-end development.
+My name is Warawat Suksakulwat. I am a software developer for 6 years as back-end development.
 
 # What about this Website?
-I create this website to note, share my knowledge, and so on.
+I create this website to note, research, share my knowledge, and so on.
+
+
 
 
 
