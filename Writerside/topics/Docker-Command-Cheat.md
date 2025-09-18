@@ -23,7 +23,7 @@ docker exec -it <container id> <command>
 # Stop Docker
 docker stop <NAMES>
 
-# Remove Conntainer
+# Remove Container
 docker ps -a
 docker rm <NAMES>
 

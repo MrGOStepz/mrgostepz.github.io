@@ -1,6 +1,6 @@
 # Overview
 
-# Docker Ecosystem
+## Docker Ecosystem
 ```mermaid
 block-beta
   columns 2
@@ -8,7 +8,7 @@ block-beta
   z["Docker Ecosystem"]
   block:group1:2
     columns 2
-    a["Docker-Client"] b["Docker-Server"] c["Docker-Machine"] d["Docer-Images"] e["Docker-Hub Docker-Compose"]
+    a["Docker-Client"] b["Docker-Server"] c["Docker-Machine"] d["Docker-Images"] e["Docker-Hub Docker-Compose"]
   end
 ```
 ## What is Docker
@@ -24,7 +24,7 @@ Container is an instance of an image to run a program.
   im --> c["Container"]
 ```
 
-# Docker Run Hello World
+## Docker Run Hello World
 ```mermaid
 
   flowchart TD
